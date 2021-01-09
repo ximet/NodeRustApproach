@@ -1,0 +1,17 @@
+{
+  "name": "rustnativemodule",
+  "version": "0.0.1",
+  "description": "Rust can mimic the behavior of a C library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rust",
+    "c",
+    "library",
+    "node"
+  ],
+  "author": "XIMet",
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+[package]
+name = "NativeModule"
+version = "0.1.0"
+authors = ["ximet <dq.ximet@gmail.com>"]
+edition = "2018"
+
+[lib]
+crate-type=["cdylib"]
+
+[dependencies]
+nodejs-sys = "0.2.0"
